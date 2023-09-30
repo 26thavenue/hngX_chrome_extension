@@ -6,3 +6,9 @@
 - [] Do not add authentication. 
 - [] Set up the server 
 - [] Make the postman documentation 
+
+-Endpoints
+- CreateVideo 
+- AppendVideo
+- completeVideo
+- getVideo
